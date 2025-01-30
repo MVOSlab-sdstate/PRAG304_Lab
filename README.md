@@ -19,13 +19,13 @@ PRAG304_Lab/
 
 ## Lab Overview
 
-- **Lab 1:** Lab Safety Instructions 
+- ### **Lab 1:** Lab Safety Instructions <br>
   This file covers lab safety guidelines, proper attire, equipment handling, emergency procedures, and waste disposal for PRAG 304L.
 
-- **Lab 2:** Using Basic Electrical Diagnostic Tools<br> 
+- ### **Lab 2:** Using Basic Electrical Diagnostic Tools<br> 
   This file covers the use of basic electrical diagnostic tools, including multimeters, oscilloscopes, Arduino, and Raspberry Pi, for troubleshooting and maintaining farm machinery in PRAG 304L.
 
-- **Lab 3:** Getting Used to MATLAB/Simulink Environment <br>
+- ### **Lab 3:** Getting Used to MATLAB/Simulink Environment <br>
   This lab is a great introduction to using MATLAB and Simulink for electrical circuit simulation!
 
 ## Usage Instructions
