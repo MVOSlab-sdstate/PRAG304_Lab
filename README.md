@@ -1,4 +1,5 @@
-# PRAG304_Lab
+# PRAG304L: Electrical Diagnostics of Farm Machinery Lab
+## Instructor: Dr. Pappu Kumar Yadav
 
 This repository contains lab materials for **PRAG 304L - Electrical Diagnostics for Farm Machinery Lab**.
 
