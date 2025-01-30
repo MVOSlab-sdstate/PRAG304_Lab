@@ -10,7 +10,7 @@ PRAG304_Lab/
 │   ├── PRAG304L Lab1.pdf    # Lab 1 documentation
 │── PRAG304L Lab2/
 │   ├── PRAG304L Lab2.pdf    # Lab 2 documentation
-│── PRAG403L Lab3/ (Possibly a typo, should be PRAG304L Lab3?)
+│── PRAG403L Lab3/ 
 │   ├── PRAG304L Lab3.pdf    # Lab 3 documentation
 │── README.md                # This file
 │── .git/                    # Git repository metadata
@@ -18,13 +18,13 @@ PRAG304_Lab/
 
 ## Lab Overview
 
-- **Lab 1:** Introduction to Electrical Diagnostics in Farm Machinery  
+- **Lab 1:** Lab Safety Instructions  
   Covers fundamental electrical diagnostic techniques and the use of testing equipment.
 
-- **Lab 2:** Advanced Circuit Troubleshooting  
+- **Lab 2:** Using Basic Electrical Diagnostic Tools 
   Focuses on diagnosing complex electrical faults in agricultural machinery.
 
-- **Lab 3:** Practical Applications and Case Studies  
+- **Lab 3:** Getting Used to MATLAB/Simulink Environment 
   Provides real-world scenarios for electrical troubleshooting.
 
 ## Usage Instructions
