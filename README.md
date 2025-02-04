@@ -30,6 +30,9 @@ PRAG304_Lab/
 - ### **Lab 3:** Getting Used to MATLAB/Simulink Environment <br>
   This lab is a great introduction to using MATLAB and Simulink for electrical circuit simulation!
 
+- ### **Lab 4:** Using Simulink for Basic Circuit Simulation and Deployment on Raspberry Pi 5 controlling LED remotely
+  This lab covers the simulation of basic circuits and deploying LED control remotely using Simulink on Raspberry Pi 5. 
+
 ## Usage Instructions
 
 1. Open the corresponding PDF files to access lab instructions.
@@ -38,7 +41,6 @@ PRAG304_Lab/
 
 ## Notes
 
-- The folder `PRAG403L Lab3/` appears to be misnamed; it may belong to PRAG304L.
 - Ensure that you have a PDF reader installed to view lab materials.
 - The `.git/` folder contains repository metadata; ignore it if not using version control.
 
