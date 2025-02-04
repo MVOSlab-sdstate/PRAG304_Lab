@@ -13,6 +13,8 @@ PRAG304_Lab/
 │   ├── PRAG304L Lab2.pdf    # Lab 2 documentation
 │── PRAG403L Lab3/ 
 │   ├── PRAG304L Lab3.pdf    # Lab 3 documentation
+│── PRAG403L Lab4/ 
+│   ├── PRAG304L Lab4.pdf    # Lab 4 documentation
 │── README.md                # This file
 │── .git/                    # Git repository metadata
 ```
