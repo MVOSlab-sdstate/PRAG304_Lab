@@ -56,4 +56,14 @@ PRAG304_Lab/
 
 ---
 
-For questions, contact your course instructor or refer to the official syllabus.
+<h3 style="font-family: Georgia;">Contributions</h3>
+<p style="font-family: Georgia;">
+Contributions to this repository are welcome. Please follow the standard GitHub pull request process.
+</p>
+
+<h3 style="font-family: Georgia;">Author</h3>
+<p style="font-family: Georgia;">
+<strong>Name:</strong> Dr. Pappu Kumar Yadav  <br>
+<strong>Email:</strong> pappu.yadav@sdstate.edu  <br>
+<strong>Affiliation:</strong> South Dakota State University
+</p>
