@@ -19,7 +19,7 @@ PRAG304_Lab/
 │   ├── PRAG304L Lab5.pdf    # Lab 5 documentation
 │── PRAG403L Lab6/ 
 │   ├── PRAG304L Lab6.pdf    # Lab 6 documentation
-│── PRAG403L Lab6/ 
+│── PRAG403L Lab8 and Lab9/ 
 │   ├── PRAG304L Lab8 and Lab9.pdf    # Lab 8 and Lab 9 documentation
 │── README.md                # This file
 │── .git/                    # Git repository metadata
