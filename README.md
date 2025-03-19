@@ -19,6 +19,8 @@ PRAG304_Lab/
 │   ├── PRAG304L Lab5.pdf    # Lab 5 documentation
 │── PRAG403L Lab6/ 
 │   ├── PRAG304L Lab6.pdf    # Lab 6 documentation
+│── PRAG403L Lab6/ 
+│   ├── PRAG304L Lab8 and Lab9.pdf    # Lab 8 and Lab 9 documentation
 │── README.md                # This file
 │── .git/                    # Git repository metadata
 ```
@@ -42,6 +44,9 @@ PRAG304_Lab/
 
 - ### **Lab 6:** DC Charging System Tests for Tractors
   This lab involves testing vehicle DC charging systems using diagnostic tools to assess battery health and determine if servicing or replacement is needed. 
+
+-   **Lab 8 and 9:** Basics of Number System Conversion
+  These labs cover the fundamental concepts of number system conversions, which are essential in understanding how different parts of farm machinery systems communicate. 
 
 ## Usage Instructions
 
