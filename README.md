@@ -7,20 +7,22 @@ This repository contains lab materials for **PRAG 304L - Electrical Diagnostics 
 
 ```
 PRAG304_Lab/
-│── PRAG304L Lab1/
-│   ├── PRAG304L Lab1.pdf    # Lab 1 documentation
-│── PRAG304L Lab2/
-│   ├── PRAG304L Lab2.pdf    # Lab 2 documentation
-│── PRAG403L Lab3/ 
-│   ├── PRAG304L Lab3.pdf    # Lab 3 documentation
-│── PRAG403L Lab4/ 
-│   ├── PRAG304L Lab4.pdf    # Lab 4 documentation
-│── PRAG403L Lab5/ 
-│   ├── PRAG304L Lab5.pdf    # Lab 5 documentation
-│── PRAG403L Lab6/ 
-│   ├── PRAG304L Lab6.pdf    # Lab 6 documentation
-│── PRAG403L Lab8 and Lab9/ 
-│   ├── PRAG304L Lab8 and Lab9.pdf    # Lab 8 and Lab 9 documentation
+│── PRAG304L Lab01/
+│   ├── PRAG304L Lab01.pdf    # Lab 1 documentation
+│── PRAG304L Lab02/
+│   ├── PRAG304L Lab02.pdf    # Lab 2 documentation
+│── PRAG403L Lab03/ 
+│   ├── PRAG304L Lab03.pdf    # Lab 3 documentation
+│── PRAG403L Lab04/ 
+│   ├── PRAG304L Lab04.pdf    # Lab 4 documentation
+│── PRAG403L Lab05/ 
+│   ├── PRAG304L Lab05.pdf    # Lab 5 documentation
+│── PRAG403L Lab06/ 
+│   ├── PRAG304L Lab06.pdf    # Lab 6 documentation
+│── PRAG403L Lab08 and Lab09/ 
+│   ├── PRAG304L Lab08 and Lab09.pdf    # Lab 8 and Lab 9 documentation
+│── PRAG403L Lab10/ 
+│   ├── PRAG304L Lab10.pdf    # Lab 10 documentation
 │── README.md                # This file
 │── .git/                    # Git repository metadata
 ```
@@ -47,6 +49,11 @@ PRAG304_Lab/
 
 - ###  **Lab 8 and 9:** Basics of Number System Conversion
   These labs cover the fundamental concepts of number system conversions, which are essential in understanding how different parts of farm machinery systems communicate. 
+
+- ###  **Lab 10:** Basics of CAN Bus Communication Using InnoMakerUsb2can, Raspberry Pi and Jaltest Diagnostics system with a FENDT Tractor
+  This lab introduces the basics of Controller Area Network (CAN) bus communication in modern farm machinery, specifically using a FENDT Vario tractor. Students will learn to set up a CAN interface, read live CAN data, log fault codes, and visualize real-time diagnostics using Python and Jaltest diagnostic systems. [cite: 1, 2, 3, 4, 5, 6, 14, 15]
+
+##   Usage Instructions
 
 ## Usage Instructions
 
