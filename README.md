@@ -53,7 +53,6 @@ PRAG304_Lab/
 - ###  **Lab 10:** Basics of CAN Bus Communication Using InnoMakerUsb2can, Raspberry Pi and Jaltest Diagnostics system with a FENDT Tractor
   This lab introduces the basics of Controller Area Network (CAN) bus communication in modern farm machinery, specifically using a FENDT Vario tractor. Students will learn to set up a CAN interface, read live CAN data, log fault codes, and visualize real-time diagnostics using Python and Jaltest diagnostic systems. [cite: 1, 2, 3, 4, 5, 6, 14, 15]
 
-##   Usage Instructions
 
 ## Usage Instructions
 
