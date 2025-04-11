@@ -19,6 +19,8 @@ PRAG304_Lab/
 │   ├── PRAG304L Lab05.pdf    # Lab 5 documentation
 │── PRAG403L Lab06/ 
 │   ├── PRAG304L Lab06.pdf    # Lab 6 documentation
+│── PRAG403L Lab07/ 
+│   ├── PRAG304L Lab07.pdf    # Lab 7 documentation
 │── PRAG403L Lab08 and Lab09/ 
 │   ├── PRAG304L Lab08 and Lab09.pdf    # Lab 8 and Lab 9 documentation
 │── PRAG403L Lab10/ 
