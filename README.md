@@ -51,7 +51,10 @@ PRAG304_Lab/
   This lab focuses on testing vehicle batteries using multimeters and battery testers to assess their health, diagnose issues, and determine if servicing or replacement is needed.
 
 - ### **Lab 6:** DC Charging System Tests for Tractors
-  This lab involves testing vehicle DC charging systems using diagnostic tools to assess battery health and determine if servicing or replacement is needed. 
+  This lab involves testing vehicle DC charging systems using diagnostic tools to assess battery health and determine if servicing or replacement is needed.
+
+- ### **Lab 7:** Sensors and Signal Processing: Soil Moisture Sensor 
+  This lab instructs how to use the EC-5 soil moisture sensor with Arduino Uno and Simulink to measure, process, and calibrate soil moisture levels for real-time monitoring in agricultural applications. 
 
 - ###  **Lab 8 and 9:** Basics of Number System Conversion
   These labs cover the fundamental concepts of number system conversions, which are essential in understanding how different parts of farm machinery systems communicate. 
