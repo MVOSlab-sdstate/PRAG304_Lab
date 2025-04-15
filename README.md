@@ -88,7 +88,7 @@ To obtain a local copy of this repository on your computer, you can use the foll
 3.  **Clone the repository using the `git clone` command.** Copy the repository's URL (in this case, `https://github.com/MVOSlab-sdstate/PRAG304_Lab.git`) and paste it after the `git clone` command:
 
     ```bash
-    git clone [https://github.com/MVOSlab-sdstate/PRAG304_Lab.git](https://github.com/MVOSlab-sdstate/PRAG304_Lab.git)
+    git clone https://github.com/MVOSlab-sdstate/PRAG304_Lab.git
     ```
 
 4.  **Press Enter.** Git will download all the files and the repository's history to a new folder named `PRAG304_Lab` in your specified directory.
