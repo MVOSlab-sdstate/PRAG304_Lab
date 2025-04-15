@@ -29,6 +29,8 @@ PRAG304_Lab/
 │   ├── PRAG304L Lab11.pdf    # Lab 11 documentation
 │── PRAG304L Lab12/
 │   ├── PRAG304L Lab12.pdf    # Lab 12 documentation
+│── PRAG304L Lab13/
+│   ├── PRAG304L Lab13.pdf    # Lab 13 documentation
 │── README.md                # This file
 │── .git/                    # Git repository metadata
 ```
@@ -67,6 +69,9 @@ PRAG304_Lab/
 
 - ### **Lab 12:** Hylio AG-210 Sprayer Drone Diagnostics
   This lab covers the procedures for inspecting, diagnosing, and troubleshooting common issues in the Hylio AG-210 sprayer drone. 
+
+- ### **Lab 13:** Diagnostic Case Study- Applying Simulation, Soil Sensing, and Motor Control for Real-World Ag Diagnostics 
+  This lab combines previous exercises to demonstrate the use of microcontrollers, sensors, and actuators in precision agriculture, including remote LED control with Raspberry Pi, soil moisture sensing with Arduino, and DC motor control with PWM.
 
 
 ## Usage Instructions
