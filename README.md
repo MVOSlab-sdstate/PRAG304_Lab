@@ -73,6 +73,41 @@ PRAG304_Lab/
 - ### **Lab 13:** Diagnostic Case Study- Applying Simulation, Soil Sensing, and Motor Control for Real-World Ag Diagnostics 
   This lab combines previous exercises to demonstrate the use of microcontrollers, sensors, and actuators in precision agriculture, including remote LED control with Raspberry Pi, soil moisture sensing with Arduino, and DC motor control with PWM.
 
+## How to Clone this Repository
+
+To obtain a local copy of this repository on your computer, you can use the following steps:
+
+1.  **Open your terminal or command prompt.**
+
+2.  **Navigate to the directory where you want to save the repository.** You can use the `cd` command to change directories. For example, if you want to save it in your "Documents" folder, you would type:
+
+    ```bash
+    cd Documents
+    ```
+
+3.  **Clone the repository using the `git clone` command.** Copy the repository's URL (in this case, `https://github.com/MVOSlab-sdstate/PRAG304_Lab.git`) and paste it after the `git clone` command:
+
+    ```bash
+    git clone [https://github.com/MVOSlab-sdstate/PRAG304_Lab.git](https://github.com/MVOSlab-sdstate/PRAG304_Lab.git)
+    ```
+
+4.  **Press Enter.** Git will download all the files and the repository's history to a new folder named `PRAG304_Lab` in your specified directory.
+
+5.  **Navigate into the repository's folder.**
+
+    ```bash
+    cd PRAG304_Lab
+    ```
+
+Now you have a local copy of the repository and can start working with the lab materials.
+
+**Explanation of Key Points:**
+
+* **`git clone`**: This is the Git command that creates a copy of a repository from a remote source (like GitHub) to your local machine.
+* **Repository URL**: This is the web address of the repository on GitHub, which tells Git where to find and download the files.
+* **`cd` (change directory)**: This is a command used in the terminal to move between folders.
+
+This addition gives clear and basic instructions for anyone new to Git on how to get the lab materials onto their own computer.
 
 ## Usage Instructions
 
