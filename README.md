@@ -42,13 +42,13 @@ PRAG304_Lab/
 - ### **[Lab 1: Lab Safety Instructions](https://github.com/MVOSlab-sdstate/PRAG304_Lab/blob/main/PRAG304L%20Lab01/PRAG304L%20Lab01.pdf)** <br>
   This file covers lab safety guidelines, proper attire, equipment handling, emergency procedures, and waste disposal for PRAG 304L.
 
-- ### **Lab 2:** Using Basic Electrical Diagnostic Tools<br> 
+- ### **[Lab 2: Using Basic Electrical Diagnostic Tools](https://github.com/MVOSlab-sdstate/PRAG304_Lab/blob/main/PRAG304L%20Lab02/PRAG304L%20Lab02.pdf)**<br> 
   This file covers the use of basic electrical diagnostic tools, including multimeters, oscilloscopes, Arduino, and Raspberry Pi, for troubleshooting and maintaining farm machinery in PRAG 304L.
 
-- ### **Lab 3:** Getting Used to MATLAB/Simulink Environment <br>
+- ### **[Lab 3: Getting Used to MATLAB/Simulink Environment](https://github.com/MVOSlab-sdstate/PRAG304_Lab/blob/main/PRAG304L%20Lab03/PRAG304L%20Lab03.pdf)** <br>
   This lab is a great introduction to using MATLAB and Simulink for electrical circuit simulation!
 
-- ### **Lab 4:** Using Simulink for Basic Circuit Simulation and Deployment on Raspberry Pi 5 controlling LED remotely
+- ### **[Lab 4: Using Simulink for Basic Circuit Simulation and Deployment on Raspberry Pi 5 controlling LED remotely](https://github.com/MVOSlab-sdstate/PRAG304_Lab/blob/main/PRAG304L%20Lab04/PRAG304L%20Lab04.pdf)**
   This lab covers the simulation of basic circuits and deploying LED control remotely using Simulink on Raspberry Pi 5. 
 
 - ### **Lab 5:** 12V Battery Testing for Tractors and Vehicles using a Multimeter and Battery Testers
