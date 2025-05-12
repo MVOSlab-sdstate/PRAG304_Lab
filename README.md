@@ -39,7 +39,7 @@ PRAG304_Lab/
 
 ## Lab Overview
 
-- ### [**Lab 1:** Lab Safety Instructions] (https://github.com/MVOSlab-sdstate/PRAG304_Lab/blob/main/PRAG304L%20Lab01/PRAG304L%20Lab01.pdf)<br>
+### **[Lab 1: Lab Safety Instructions](https://github.com/MVOSlab-sdstate/PRAG304_Lab/blob/main/PRAG304L%20Lab01/PRAG304L%20Lab01.pdf)** <br>
   This file covers lab safety guidelines, proper attire, equipment handling, emergency procedures, and waste disposal for PRAG 304L.
 
 - ### **Lab 2:** Using Basic Electrical Diagnostic Tools<br> 
